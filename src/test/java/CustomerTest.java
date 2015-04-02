@@ -8,7 +8,7 @@ import static org.mockito.BDDMockito.*;
 import static org.junit.Assert.*;
 import bean.Customer;
 
-
+// demo
 @RunWith(MockitoJUnitRunner.class)
 public class CustomerTest {
 	
