@@ -5,7 +5,7 @@
   <artifactId>01jspservletIntro</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>01jspservletIntro Maven Webapp</name>
+  <name>01jspservletIntroMavenWebapp</name>
   <url>http://maven.apache.org</url>
   <properties>
 		<junit.version>4.11</junit.version>
@@ -27,7 +27,7 @@
       <scope>provided</scope>
        provided means it will not be package in the war but the server is expected to have this jar
     </dependency>   -->
-    
+     
     <dependency>
   <groupId>javax.servlet</groupId>
   <artifactId>javax.servlet-api</artifactId>
